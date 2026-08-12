@@ -1,0 +1,99 @@
+TitLe 
+personalized ecosystem for student
+
+Objective:
+* To develop a centralized platform for managing and monitoring student academic information.
+* To create personalized learning paths based on each student's performance, strengths, weaknesses, and learning needs.
+* To monitor students' academic progress continuously throughout their university journey.
+* To analyze examination results and identify weak and strong subjects automatically.
+* To provide AI-based personalized feedback and learning recommendations.
+* To recommend relevant study materials, old question papers, quizzes, and practice exercises.
+* To send personalized notifications about examinations, results, deadlines, and academic activities.
+* To help teachers and universities monitor student performance through academic analytics.
+* To track students' skills, achievements, projects, and overall development.
+* To provide AI-based career guidance based on students' academic performance, skills, interests, and goals.
+* To connect eligible students with suitable internship and job opportunities.
+* To create a continuous ecosystem that supports students from university enrollment to graduation and career development.
+
+## Functional Requirements
+
+* Student login with university details.
+* Student registration with personal and academic information.
+* University and student verification.
+* Automatic fetching of university data through secure API/connection(store in backend).
+* Fetch academic calendar from the university.
+* Fetch examination routine.
+* Fetch subjects and course details.
+* Fetch test and examination information.
+* Fetch past-year question papers.
+* Store fetched university data in the backend database.
+* Create a complete student academic profile.
+* Allow students to attend tests and examinations.
+* Allow students to submit answers and examination files.
+* Automatically evaluate tests where applicable.
+* Automatically analyze student examination results.
+* Identify student strengths and weaknesses.
+* Track student academic performance over time.
+* Provide personalized feedback based on student performance.
+* Provide AI-based study recommendations.
+* Set personalized goals for upcoming examinations.
+* Suggest important and less-important topics.
+* Create personalized study plans.
+* Recommend past-year questions.
+* Analyze past-year question patterns.
+* Generate similar practice questions.
+* Recommend learning materials according to student weaknesses.
+* Send examination and study notifications.
+* Encourage students to participate actively in learning.
+* Track student learning activities and progress.
+* Monitor the student's complete four-year bachelor's journey.
+* Store academic results, skills, projects, and achievements.
+* Analyze the student's complete four-year performance using AI.
+* Generate an overall student performance report after graduation.
+* Identify suitable career fields based on student performance, skills, and interests.
+* Recommend suitable internships and job opportunities.
+* Allow students to view and approve job applications.
+* Provide suitable student profiles to recruiters with student permission.
+* Allow recruiters to view relevant academic achievements, skills, projects, and experience.
+* Match students with suitable job requirements.
+* Support students from university enrollment to graduation and employment.
+
+
+### Key Events
+
+* **Event 1:** Student Login
+* **Event 2:** University Data Fetch
+* **Event 3:** Student Profile Creation
+* **Event 4:** Academic Data Synchronization
+* **Event 5:** Examination Schedule Update
+* **Event 6:** Student Test/Exam
+* **Event 7:** Result Submission
+* **Event 8:** Performance Analysis
+* **Event 9:** Strength & Weakness Detection
+* **Event 10:** AI Feedback
+* **Event 11:** Personalized Study Goal
+* **Event 12:** Past-Year Question Analysis
+* **Event 13:** Learning Recommendation
+* **Event 14:** Progress Monitoring
+* **Event 15:** Four-Year Performance Analysis
+* **Event 16:** Career Recommendation
+* **Event 17:** Job Matching
+* **Event 18:** Recruiter Access
+* **Event 19:** Job Application
+* **Event 20:** Job Opportunity Notification
+
+
+### If System Does Not Respond
+
+* User sees a **“System is not responding”** message.
+* User can click **Retry**.
+* User's unsaved data is temporarily saved.
+* User is not logged out automatically.
+* If the problem continues, the user is advised to try again later.
+* The system notifies the administrator about the failure.
+* Once the system is restored, the user can continue from the previous step.
+
+
+
+
+
